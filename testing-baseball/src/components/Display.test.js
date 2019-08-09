@@ -6,7 +6,7 @@ import "@testing-library/react/cleanup-after-each";
 import Display from './Display';
 
 describe('Display component', () => {
-    it('should display things', () ={
+    it('should display things', () => {
         //expect
     })
 })
